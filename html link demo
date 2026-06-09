@@ -1,0 +1,37 @@
+<DOCTYPE html>
+    <html>
+        <head>
+        <title>HTML Links Example</title>    
+        </head>
+        <body>
+            <h1>HTML Links Demo</h1>
+            <!--External Link-->
+            <a href="https://www.google.com"target="_Blank">
+                Google
+            </a>
+            <br><br>
+            <!--Internal Link-->
+            <a href=":about.html">
+                About Us
+            </a>
+            <br><br>
+            <!--Email Link-->
+            <a href="mailto:test@gmail.com">
+                Email US
+            </a>
+            <br><br>
+            <!--Phone Link-->
+            <a href="tel:+919999999999"
+            Call Us 
+        </a>
+        <br><br>
+        <!--Bookmark Link-->
+        <a href="#bottom">
+            Go to Bottom
+        </a>
+        <br><br><br><br><br><br><br><br></body>
+        <h2 id="bottom">Bottom of page</h2>
+        </body>
+           
+    </html>
+<
