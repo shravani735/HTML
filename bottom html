@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html>
+    <body>
+        <a href="#bottom">Go to bottom</a>
+        <h1>Top of page</h1>
+        <p>Lots of content here...</p>
+        <h2> id="bottom">Bottom section</h2>
+    </body>
+</html>
