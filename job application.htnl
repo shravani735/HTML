@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+ <h1> JOB APPLICATION FORM</h1> 
+  
+ <legend>personal deatails</legend> 
+ <label>Full Name:</label>
+ <input type="Text"name="username"><br><br>
+ <label>Father's Name:</label>
+ <input type="Text"name="username"><br><br>
+ <label>Date Of Birth:</label>
+ <input type="Date"name="Date"><br><br>
+ <label>Gender:</label>
+ <input type="radio"name="Gender"value="Male">Male
+ <input type="radio"name="Gender"value="Female">Female
+ <input type="radio"name="Gender"value="Other">Other
+ <label>Mobile Number:</label>
+ <input type="tel"name="tel"><br><br>
+ <label>Marital Status:</label>
+ <select>
+    <Option>Single</Option>
+    <Option>married</Option>
+    <Option>Divorced</Option><!
+    <Option>Widowed</Option>
+    <Option>seprated</Option>
+    
+ </select>
+ <legend>Educational details</legend>
+ <label>10th percentage:</label>
+ <input type="number"name="number"><br><br>
+ <label>12th percentage:</label>
+<input type="numbre"name="number"><br><br>
+<label>Graduation:</label>
+<input type="text"name="username"><br><br>
+<label>University:</label> 
+<input type="text"name="username"><br><br>
+<label>Passing Year:</label>
+<input type="number"name="number"><br><br>
+<label>Additional Qualification:</label>
+<input type="text"name="Qualification"><br><br>
+
+<legend>Experience Details</legend>
+
+<label>Total Experience:</label>
+<input type="number" name="Experience"><br><br>
+<label>Current Company:</label>
+<input type="text" name="company"><br><br>
+<label>Designation:</label>
+<input type="text" name="Designation"><br><br>
+<label>Current salary:</label>
+<input type="number" name="salary"><br><br>
+<label>Skills:</label>
+<textarea row="4" cols="30"></textarea><br><br>
+
+</html>
+
+<legend>Address Details</legend>
+<label>Address:</label>
+<textarea row="4" cols="30"></textarea><br><br>
+<label>City:</label>
+<input type="text" name="city"><br><br>
+<label>State:</label>
+<input type="text" name="State"><br><br>
+<label>Pin Code:</label>
+<input type="number" name="Pin Code"><br><br>
+<label>Country:</label>
+<input type="text" name="Country"><br><br>
+
+<legend>Photo & Signature</legend>
+<label>Upload photo:</label>
+<input type="file" value="choose file"><br><br>
+<lable>Upload Signature:</lable>
+<input type="file" value="choose file"><br><br>
+
+<legend>Required Documents</legend>
+
+<label>Resume/CV:</label>
+<input type="file" value="choose file"><br><br>
+<label>Aadhaar Card:</label>
+<input type="file" value="choose file"><br><br>
+<lable>Pan card:</lable>
+<input type="file" value="choose file"><br><br>
+<label>10th Marksheet:</label>
+<input type="file" value="choose file"><br><br>
+<label>12th Marksheet:</label>
+<input type="file" value="choose file"><br><br>
+<label>Graduation Certificate:</label>
+<input type="file" value="choose file"><br><br>
+<label>Experience certification:</label>
+<input type="file" value="choose file"><br><br>
+<label>Other Documents:</label>
+<input type="file" value="choose file"><br><br>
+
+<legend>Declaration</legend>
+
+
+
+</html>
